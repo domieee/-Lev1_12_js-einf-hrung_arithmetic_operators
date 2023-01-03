@@ -34,4 +34,4 @@ console.log('increment: ' + zahl);
 // Verwende Dekrement-Operatoren
 zahl--;
 console.log('dekrement: ' + zahl);
-    // 2 - 1 = 1 > Der Dekrement-Operator dekrementiert die gegebene Variable um die Summe 1  
+    // 2 - 1 = 1 > Der Dekrement-Operator dekrementiert die gegebene Variable um die Summe 1
